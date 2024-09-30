@@ -26,10 +26,8 @@ Creating (engaging) content is a critical aspect of social media marketing. Busi
 
 As you can see, it can be informative, but it's not engaging. So, we need to create content that is engaging and relevant to our target audience. We start creating after-movies for the parties, photo albums of every event, and Reels of promotions. We started to create an "engineering" blog on Linkedin, showing what we have done to make the party happen. All of this "backstage" content helped to create more awareness that we are a serious business, and we are not just a "party house". In effect, more older people started to come, generating more income. As a rule of thumb, in nightclubs, the older the people, the more money they spend because they work. So, that was the target audience that we were effectively targeting.
 
-![img-description](/assets/img/production/print_bar_Cultural.jpeg){w: 1080, h: 2124}
-_Printscreen for the new Bar Cultural's Instagram_
 
-2. Build a following
+1. Build a following
 
 Our shift towards a content-focused approach paid off when we saw a significant increase in our follower count. We were able to figure out what kind of posts worked best by using hashtags, mentions, and shares. This was a pivotal moment for us, as we began to implement more automated tools.
 
