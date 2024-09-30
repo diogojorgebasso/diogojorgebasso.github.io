@@ -24,9 +24,6 @@ Therefore, to create a Brand, you need to select your audience, aka _"persona"_,
 
 Creating (engaging) content is a critical aspect of social media marketing. Businesses need to create content that is interesting, informative, and relevant to their target audience. Imagine that you have a nightclub, [as I once coordinated](https://diogobasso.engineer/posts/my-experiencing-in-bar-cultural), and you want to promote it. In the beginning, we just publish the cover photo for the event.
 
-![img-description](/assets/img/production/archive_posts_BarCultural.jpeg){w: 1080, h: 2124}
-_Printscreen for the Archive of Bar Cultural's Instagram_
-
 As you can see, it can be informative, but it's not engaging. So, we need to create content that is engaging and relevant to our target audience. We start creating after-movies for the parties, photo albums of every event, and Reels of promotions. We started to create an "engineering" blog on Linkedin, showing what we have done to make the party happen. All of this "backstage" content helped to create more awareness that we are a serious business, and we are not just a "party house". In effect, more older people started to come, generating more income. As a rule of thumb, in nightclubs, the older the people, the more money they spend because they work. So, that was the target audience that we were effectively targeting.
 
 ![img-description](/assets/img/production/print_bar_Cultural.jpeg){w: 1080, h: 2124}
