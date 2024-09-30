@@ -1,43 +1,31 @@
-# Chirpy Starter
+# Today I Learned (TIL) Repository
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This repository is a collection of my daily learnings, following the **TIL (Today I Learned)** practice. The purpose of this project is to document new knowledge, insights, or discoveries I come across every day, no matter how big or small.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Why TIL?
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Adopting a TIL habit is a great way to reinforce learning and improve long-term knowledge retention. It encourages a continuous learning mindset, where even small insights or improvements are valued and documented. Sharing these learnings publicly, or even privately, fosters a culture of transparency, accountability, and growth.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+By committing to documenting my learnings regularly, I not only track my progress but also create a valuable resource that I can revisit in the future or share with others who may benefit.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### Benefits of a TIL Practice:
+1. **Reinforces Learning**: Writing down new concepts solidifies understanding.
+2. **Promotes Consistency**: A daily habit of learning creates a routine that keeps curiosity alive.
+3. **Knowledge Sharing**: Helps others learn from your experiences and discoveries.
+4. **Increases Awareness**: Even the small, seemingly trivial lessons contribute to overall knowledge.
+5. **Documentation for Future Reference**: A TIL repository serves as a personal knowledge base to look back on.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Getting Started
 
-## Usage
+This repository uses the **Chirpy** theme for easy and efficient content management with Jekyll, ensuring that each entry is neatly formatted and well-organized. 
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+For more detailed instructions, check out the [Chirpy theme documentation](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
 
 ## License
 
-This work is published under [MIT][mit] License.
+This project is licensed under [The Unlicense](https://github.com/diogojorgebasso/diogojorgebasso.github.io/blob/main/LICENSE).
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+---
+
+By embracing the TIL practice, we foster a culture of curiosity, growth, and constant learning. Happy documenting!
