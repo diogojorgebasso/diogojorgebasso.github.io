@@ -16,13 +16,11 @@ timezone: Europe/Paris
 
 title: Diogo's Blog
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Usando da Computação para inspirar Projetos. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Um Blog sobre Computação, Comportamento Humano e muitos testes
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: https://diogojorgebasso.github.io
 
 github:
@@ -35,10 +33,9 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Diogo Jorge Basso
-  email: example@domain.com # change to your email address
+  email: diogo.basso@depinfonancy.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/diogojorgebasso # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
